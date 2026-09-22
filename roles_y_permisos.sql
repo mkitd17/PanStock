@@ -1,6 +1,5 @@
 -- =========================================================
 -- CONFIGURACIÓN DE ROLES Y PERMISOS - PANSTOCK
--- Autor: Francisco Benito Páez (Rol: Acceso a Datos)
 -- =========================================================
 
 -- 1. Creación de roles de usuario en el SGBD
